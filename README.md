@@ -365,11 +365,31 @@ Fundamentos da linguagem Python e lógica de programação.
 
 ---
 
-# `> achievements`
+# `> # `> certifications_and_education`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Henriquemnj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+### 🎓 Education
+
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+`Cursando`
+
+<br>
+
+### 🏅 Certifications
+
+**Cisco Networking Academy**  
+Introdução à Cibersegurança
+
+<br>
+
+**Fundação Bradesco | Escola Virtual**  
+Python
+
+<br>
+
+**Fundação Bradesco | Escola Virtual**  
+Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python
 
 </div>
 
